@@ -9,3 +9,11 @@ Mini Calculator to perform operation like +,-,*,/ and %.
 
 ## Demo
 [Watch the video](assets/scr_rec.mp4)
+
+![Alt text](assets/s1.jpg)
+
+![Alt text](assets/s2.jpg)
+
+![Alt text](assets/s3.jpg)
+
+![Alt text](assets/s4.jpg)
