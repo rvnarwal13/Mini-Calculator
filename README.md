@@ -3,7 +3,7 @@ Mini Calculator to perform operation like +,-,*,/ and %.
 
 ## Project Setup
 1) Android Studio (> Giraffe)
-2) Target SDk : 34
+2) Target SDk : 35
 3) Java Version : 17
 4) Gradle Version : 8.7
 
