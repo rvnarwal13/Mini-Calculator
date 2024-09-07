@@ -8,12 +8,11 @@ Mini Calculator to perform operation like +,-,*,/ and %.
 4) Gradle Version : 8.7
 
 ## Demo
-[Watch the video](assets/scr_rec.mp4)
 
-![Alt text](assets/s1.jpg)
+![Alt text](assets/s1.jpg){:width="200px"}
 
-![Alt text](assets/s2.jpg)
+![Alt text](assets/s2.jpg){:width="200px"}
 
-![Alt text](assets/s3.jpg)
+![Alt text](assets/s3.jpg){:width="200px"}
 
-![Alt text](assets/s4.jpg)
+![Alt text](assets/s4.jpg){:width="200px"}
